@@ -1,0 +1,19 @@
+body{
+  background-color: #E9EDC9;
+}
+.card h2, h4{
+  background-color: #D4A373;
+  font-weight: 700;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.card{
+  border-radius: 1rem;
+  color: #000;
+}
+span{
+  color: #6b705c;
+}
+a:hover{
+  text-decoration: none;
+}
